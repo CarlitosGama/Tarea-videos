@@ -6,3 +6,4 @@ dolares = str(dolares)
 print("Tienes \n $"+ dolares + " dolares" )
 
 menu = "Este es un nuevo texto, agrega tu otra parte compañero, gracias"
+print  ("Somos geniales, terminamos el proyecto"+menu)
